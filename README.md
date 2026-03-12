@@ -38,7 +38,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/yasif_khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yasif_khan/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/yasiffkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/yasiffkhan" height="30" width="40" /></a>
 <a href="https://discord.gg/1262339495613956098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1262339495613956098" height="30" width="40" /></a>
-<a href="/https://medium.com/feed/@yasiffkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@yasiffkhan" height="30" width="40" /></a>
+<a href="/https://medium.com/feed/@yasiffkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@yasiffkhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
